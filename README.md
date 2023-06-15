@@ -1,9 +1,16 @@
 # Awesome - Bin Packing Problem
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![GitHub last commit](https://img.shields.io/github/last-commit/al-ratushny/awesome_bpp)
 
-This repository contains a list of papers, theses, datasets, blogs, github repos and tools for the bin packing problem (and maybe knapsack problem) and its variations.
+This repository contains a list of papers, theses, datasets, blogs, github repos and tools for the bin packing problem (online bpp, temporal bpp, knapsack problem, etc) and its variations.
 
-# Papers
+- [Papers & books](#Papers-&-books)
+- [Github repositories & libraries](#Github-repositories-&-libraries)
+- [Datasets & benchmarks](#Datasets-&-benchmarks)
+- [Presentations](#Presentations)
+- [Blog posts](#Blog-posts)
+
+# Papers & books
 
 format: <link\> <title\> <(year)\> <authors\>
 
@@ -51,13 +58,19 @@ Problem (2020)** Mauro Dell’Amico, Fabio Furini, Manuel Iori
 
 20. https://doi.org/10.2298/YJOR200117009K **A hybrid VNS matheuristic for a bin packing problem with a color constraint (2021)** Kochetov Yury, Kondakov Arteam
 
-# Github repositories & Libraries
+21. https://doi.org/10.1007/s00453-021-00844-5 **Best Fit Bin Packing with Random Order Revisited (2021)** Susanne Albers, Arindam Khan & Leon Ladewig
+
+22. https://arxiv.org/abs/1404.4526 **An All-Around Near-Optimal Solution for the Classic Bin Packing Problem (2014)** Shahin Kamali, Alejandro López-Ortiz
+
+23. http://dx.doi.org/10.1007/978-3-030-63072-0_14 **On the Benchmark Instances for the Bin Packing Problem with Conflicts (2020)** Bacci, Tiziano & Nicoloso, Sara
+
+# Github repositories & libraries
 
 1. https://site.unibo.it/operations-research/en/research/bpplib-a-bin-packing-problem-library **BPPLIB – A Bin Packing Problem Library**
 
 2. https://developers.google.com/optimization/pack/bin_packing **OR-Tools guide for The Bin Packing Problem**
 
-# Datasets
+# Datasets & benchmarks
 
 1. https://github.com/mail-ecnu/VMAgent/blob/master/docs/source/simulator/dataset.rst Huawei dataset for virtual machine scheduling (temporal bin packing problem)
 
@@ -71,8 +84,10 @@ Problem (2020)** Mauro Dell’Amico, Fabio Furini, Manuel Iori
 
 # Presentations
 
-# Blogs
+# Blog posts
 
-# Research Groups
+1. https://medium.com/@fabianterh/how-to-solve-the-knapsack-problem-with-dynamic-programming-eb88c706d3cf How to solve the Knapsack Problem with dynamic programming
 
-1. https://site.unibo.it/operations-research/en/people/staff Operations Research at University of Bologna
+<!-- # Research Groups
+
+1. https://site.unibo.it/operations-research/en/people/staff Operations Research at University of Bologna -->
