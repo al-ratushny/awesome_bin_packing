@@ -1,6 +1,7 @@
 # Awesome - Bin Packing Problem
 <!-- [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) -->
 ![GitHub last commit](https://img.shields.io/github/last-commit/al-ratushny/awesome_bpp)
+![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)
 
 This repository contains a list of papers, theses, datasets, blogs, github repos and tools for the bin packing problem (online bpp, temporal bpp, knapsack problem, etc) and its variations.
 
@@ -118,26 +119,30 @@ This repository contains a list of papers, theses, datasets, blogs, github repos
 
 - https://developers.google.com/optimization/pack/bin_packing **OR-Tools guide for The Bin Packing Problem**
 
+- https://github.com/fontanf/columngenerationsolverpy **Column Generation Solver (Python)**
+
 # Datasets & benchmarks
 
-- https://github.com/mail-ecnu/VMAgent/blob/master/docs/source/simulator/dataset.rst Huawei dataset for virtual machine scheduling (temporal bin packing problem)
+- https://github.com/mail-ecnu/VMAgent/blob/master/docs/source/simulator/dataset.rst **Huawei dataset for virtual machine scheduling (temporal bin packing problem)**
 
-- https://aws.amazon.com/ec2/instance-types/ Amazon virtual machine types
+- https://aws.amazon.com/ec2/instance-types/ **Amazon virtual machine types**
 
-- https://www.euro-online.org/websites/esicup/data-sets/#1535972134887-953d6528-5b82 Datasets for 1D, 2D & 3D
+- https://www.euro-online.org/websites/esicup/data-sets/#1535972134887-953d6528-5b82 **Datasets for 1D, 2D & 3D**
 
-- https://people.sc.fsu.edu/~jburkardt/datasets/bin_packing/bin_packing.html small datasets
+- https://people.sc.fsu.edu/~jburkardt/datasets/bin_packing/bin_packing.html **small datasets**
 
-- https://site.unibo.it/operations-research/en/research/library-of-codes-and-instances-1 Operations Research at University of Bologna
+- https://site.unibo.it/operations-research/en/research/library-of-codes-and-instances-1 **Operations Research at University of Bologna**
 
 # Presentations
 
 - https://nsidn98.github.io/files/Packman_Presentation.pdf **Solving the 3D Bin Packing Problem With
 Reinforcement Learning**
 
-# Blog posts
+# Blog posts, demos & notebooks
 
-- https://medium.com/@fabianterh/how-to-solve-the-knapsack-problem-with-dynamic-programming-eb88c706d3cf How to solve the Knapsack Problem with dynamic programming
+- https://medium.com/@fabianterh/how-to-solve-the-knapsack-problem-with-dynamic-programming-eb88c706d3cf **How to solve the Knapsack Problem with dynamic programming**
+
+- https://github.com/demirayonur/Column-Generation/blob/main/ColumnGeneration_CuttingStockProblem.ipynb **Column Generation: Cutting Stock Problem**
 
 <!-- # Research Groups
 
