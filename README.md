@@ -143,6 +143,8 @@ packing problem** S. Martello & P. Toth.
 - https://nsidn98.github.io/files/Packman_Presentation.pdf **Solving the 3D Bin Packing Problem With
 Reinforcement Learning**
 
+- https://mathopt.be/Slides_LaRoche_Martello.pdf **Bin packing problems, 23rd Belgian Mathematical ptimization Workshop, Silvano Martello**
+
 # Blog posts, demos & notebooks
 
 - https://medium.com/@fabianterh/how-to-solve-the-knapsack-problem-with-dynamic-programming-eb88c706d3cf **How to solve the Knapsack Problem with dynamic programming**
