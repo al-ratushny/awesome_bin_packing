@@ -101,11 +101,16 @@ This repository contains a list of papers, theses, datasets, blogs, github repos
 
 - https://doi.org/10.1007/978-3-540-24777-7 **(2004) Knapsack Problems** Hans Kellerer, Ulrich Pferschy, David Pisinger
 
-- https://www.labri.fr/perso/eyraud/pmwiki/uploads/Main/Ivkovic1993-FullyDynamic.pdf **(1998) FULLY DYNAMIC ALGORITHMS FOR BIN PACKING: BEING (MOSTLY) MYOPIC HELPS** ZORAN IVKOVIC´ AND ERROL L. LLOYD
+- https://www.labri.fr/perso/eyraud/pmwiki/uploads/Main/Ivkovic1993-FullyDynamic.pdf **(1998) FULLY DYNAMIC ALGORITHMS FOR BIN PACKING: BEING (MOSTLY) MYOPIC HELPS** ZORAN IVKOVIC´, ERROL L. LLOYD
 
 - https://doi.org/10.1016/S0020-0190(97)00179-8 **(1997) There is no asymptotic PTAS for two-dimensional vector packing** Gerhard J. Woeginger
 
+- https://www.sciencedirect.com/science/article/abs/pii/037722179500022I **(1995) The modified integer round-up property of the one-dimensional cutting stock problem** Guntram Scheithauer, Johannes Terno
+
 - http://www.or.deis.unibo.it/knapsack.html **(1990) Knapsack Problems: Algorithms and Computer Implementations** S. Martello & P. Toth.
+
+- https://www.sciencedirect.com/science/article/pii/0166218X9090094S **(1990) Lower bounds and reduction procedures for the bin
+packing problem** S. Martello & P. Toth.
 
 - https://doi.org/10.1137/0212014 **(1983) Dynamic Bin Packing** Authors: E. G. Coffman, Jr., M. R. Garey, and D. S. Johnson
 
