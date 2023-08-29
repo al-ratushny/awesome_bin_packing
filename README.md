@@ -13,6 +13,8 @@ This repository contains a list of papers, theses, datasets, blogs, github repos
 
 # Papers & books
 
+- https://doi.org/10.1016/j.ejor.2023.06.028 **(2024) Lower and upper bounding procedures for the bin packing problem with concave loading cost** Mohamed Haouari, Mariem Mhiri
+
 - https://arxiv.org/abs/2304.08648 **(2023) Dynamic Vector Bin Packing for Online Resource Allocation in the Cloud** Aniket Murhekar, David Arbour, Tung Mai, Anup Rao
 
 - https://arxiv.org/abs/2207.11122 **(2022) Solving the Batch Stochastic Bin Packing Problem in Cloud: A Chance-constrained Optimization Approach** Jie Yan, Yunlei Lu, Liting Chen, Si Qin, Yixin Fang, Qingwei Lin, Thomas Moscibroda, Saravan Rajmohan, Dongmei Zhang
@@ -94,6 +96,8 @@ This repository contains a list of papers, theses, datasets, blogs, github repos
 
 - https://doi.org/10.1007/978-3-642-16054-7_2 
 **(2010) Hybrid Algorithms for the Variable Sized Bin Packing Problem** Christian Blum, Vera Hemmelmayr, Hugo Hernández & Verena Schmid 
+
+- https://10.1007/0-387-25486-2_1 **(2006) A Primer in Column Generation** Desrosiers, Jacques & Lübbecke, Marco.
 
 - https://doi.org/10.1007/11809678_33 **(2006) On Dynamic Bin Packing: An Improved Lower Bound and Resource Augmentation Analysis** Wun-Tat Chan, Prudence W. H. Wong & Fencol C. C. Yung
 
