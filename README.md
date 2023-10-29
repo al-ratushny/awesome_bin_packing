@@ -39,6 +39,10 @@ This repository contains a list of papers, theses, datasets, blogs, github repos
 
 - https://doi.org/10.1016/j.cor.2019.104825 **(2020) A Branch-and-Price Algorithm for the Temporal Bin Packing Problem** Mauro Dell’Amico, Fabio Furini, Manuel Iori
 
+- https://link.springer.com/article/10.1134/S0361768819080036 **(2019) On Online Algorithms for Bin, Strip, and Box Packing, and Their Worst-Case and Average-Case Analysis** D. O. Lazarev, N. N. Kuzyurin 
+
+- https://link.springer.com/article/10.1134/S0361768819070077 **(2019) On Effective Scheduling in Computing Clusters** D. A. Grushin, N. N. Kuzyurin
+
 - https://doi.org/10.1016/j.eswa.2019.01.052 **(2019) A variable neighborhood search algorithm for the bin packing problem with compatible categories** Luiz F.O. Moura Santos, Renan Sallai Iwayama, Luísa Brandão Cavalcanti, Leandro Maciel Turi, Fabio Emanuel de Souza Morais, Gabriel Mormilho, Claudio B. Cunha
 
 - https://arxiv.org/abs/1910.03249 **(2019) Parallel Online Algorithms for the Bin Packing Problem** Sándor P. Fekete, Jonas Grosse-Holz, Phillip Keldenich, Arne Schmidt
